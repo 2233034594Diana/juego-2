@@ -1,0 +1,6 @@
+{
+  "name": "Prosodia NeuroEval",
+  "description": "Batería clínica de evaluación de reconocimiento prosódico bajo escenarios de ruido para niños con TDAH y TEA, basada en el modelo de atención de Posner, con análisis estadísticos de ANOVA de medidas repetidas y exportación a PDF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
